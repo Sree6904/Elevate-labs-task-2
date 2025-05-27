@@ -1,6 +1,6 @@
 # Elevate-labs-task-2
 # Task 2: Exploratory Data Analysis (EDA)
-# Titanic Dataset
+ Titanic Dataset
 ## Objective
 Perform EDA to understand patterns, correlations, and insights from Titanic passenger data.
 
